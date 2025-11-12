@@ -1,3 +1,6 @@
+-- here are all business questions and answers 
+
+
 select * from amazon
 
 ALTER TABLE amazon
