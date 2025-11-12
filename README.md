@@ -11,7 +11,7 @@ Toolset:
 
 Database: MySQL
 
-Visualization: Power BI (for dashboards)
+I have answerd all business questions with the help of mysql
 
 Languages: SQL
 
